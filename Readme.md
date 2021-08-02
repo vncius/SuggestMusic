@@ -4,7 +4,7 @@
   <br/>
     <ul>
       <li>
-        Verificar se o Docker esta instalado
+        Verificar se o Docker esta instalado, <strong>e em execução</strong>
       </li>
       <li>
         Acessar via cmd a pasta raiz da solução ..\DesafioSIAGRI
